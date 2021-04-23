@@ -7,3 +7,6 @@ Są to następujące bazy danych:
 - ElementyZamownienia;
 - Produkty;
 - Dostawcy.
+
+* **Zapytania zagnieżdżone**
+* **Złączenia Tabel**
