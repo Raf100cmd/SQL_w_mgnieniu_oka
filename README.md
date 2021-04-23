@@ -9,4 +9,5 @@ Są to następujące bazy danych:
 - Dostawcy.
 
 * **Zapytania zagnieżdżone**
+  * **[Ćwiczenie](https://drive.google.com/file/d/1Yy0RvNzhOUabLaMKAETC0JAlVR17mUAR/view?usp=sharing)** _-Pobranie z tabeli Produkty wszystkie nazwy produktów, a także obliczoną kolumnę zawierającą łączną liczbę sprzedanych sztuk każdego produktu._ _[Rozwiązanie](https://drive.google.com/file/d/1gfvLrGvVqHThJ_DECSCsmPVIFzbZsvO-/view?usp=sharing)_
 * **Złączenia Tabel**
