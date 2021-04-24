@@ -8,6 +8,8 @@ Są to następujące bazy danych:
 - Produkty;
 - Dostawcy.
 
+* **Pobieranie danych**
+  * **[Ćwiczenie 1.0](https://drive.google.com/file/d/1dhSOd7MuOzU5af91krcKmjd8iK8mXv7T/view?usp=sharing)** _- Pobieranie pojedyńczych kolumn._ _[Rozwiązanie](https://drive.google.com/file/d/1AXkTRHiYaR0oqmIXfg9HCzOxmft8s21_/view?usp=sharing)_
 * **Zapytania zagnieżdżone**
   * **[Ćwiczenie](https://drive.google.com/file/d/1Yy0RvNzhOUabLaMKAETC0JAlVR17mUAR/view?usp=sharing)** _- Pobranie z tabeli Produkty wszystkie nazwy produktów, a także obliczoną kolumnę zawierającą łączną liczbę sprzedanych sztuk każdego produktu._ _[Rozwiązanie](https://drive.google.com/file/d/1gfvLrGvVqHThJ_DECSCsmPVIFzbZsvO-/view?usp=sharing)_
 * **Złączenia Tabel**
