@@ -10,6 +10,7 @@ Są to następujące bazy danych:
 
 * **Pobieranie danych**
   * **[Ćwiczenie 1.0](https://drive.google.com/file/d/1dhSOd7MuOzU5af91krcKmjd8iK8mXv7T/view?usp=sharing)** _- Pobieranie pojedyńczych kolumn._ _[Rozwiązanie](https://drive.google.com/file/d/1AXkTRHiYaR0oqmIXfg9HCzOxmft8s21_/view?usp=sharing)_
+  * **[Ćwiczenie 1.01](https://drive.google.com/file/d/1T5W_HosJYtDzAsoEtLBBNEaCa4srNJVS/view?usp=sharing)** _- Pobieranie wielu kolumn._ _[Rozwiązanie](https://drive.google.com/file/d/1hy_00bjcqlXmv9lttnc1KzqxKsYY9C7T/view?usp=sharing)_
 * **Zapytania zagnieżdżone**
   * **[Ćwiczenie](https://drive.google.com/file/d/1Yy0RvNzhOUabLaMKAETC0JAlVR17mUAR/view?usp=sharing)** _- Pobranie z tabeli Produkty wszystkie nazwy produktów, a także obliczoną kolumnę zawierającą łączną liczbę sprzedanych sztuk każdego produktu._ _[Rozwiązanie](https://drive.google.com/file/d/1gfvLrGvVqHThJ_DECSCsmPVIFzbZsvO-/view?usp=sharing)_
 * **Złączenia Tabel**
