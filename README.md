@@ -26,6 +26,7 @@ Są to następujące bazy danych:
   * **[Ćwiczenie 1.04](https://drive.google.com/file/d/1yxjPDwKGo232PIKpW4bc5_CQ1nMnR7f5/view?usp=sharing)** _- Sortowanie danych rosnąco względem ceny_ _[Rozwiązanie](https://drive.google.com/file/d/1NzADB8XSJ0g8TXBbtIJN3IfYG_-kO5EE/view?usp=sharing)_
   * **[Ćwiczenie 1.05](https://drive.google.com/file/d/1Qyq4GwKJ7k2wCQ4raI5NpuFKm_OLSZ3H/view?usp=sharing)** _- Sortowanie danych na podstawie wielu kolumn - malejącą względem ceny i alfabetycznie_ _[Rozwiązanie](https://drive.google.com/file/d/11tH9dLI21HvWMEmb0ru1TPBMlFS6vj7g/view?usp=sharing)_
   * **[Ćwiczenie 1.06](https://drive.google.com/file/d/1BgWgcfvFV0GEsjq4guqEZS72Wdgwx1_n/view?usp=sharing)** _- Posortowanie pobranych nazw klientów w odwrotnej kolejności alfabetycznej_ _[Rozwiązanie](https://drive.google.com/file/d/1rxMyJgiEV0IitMhR8nAccMCnoR31ethi/view?usp=sharing)_
+  * **[Ćwiczenie 1.07](https://drive.google.com/file/d/1-69vT4lcs93XMqC2jnvS68ttR-YPtasE/view?usp=sharing)** _- Sortowanie danych wg identyfikatora klienta i daty zamówienia_ _[Rozwiązanie](https://drive.google.com/file/d/1KF-fE0KobJo259hBA0ywG67QHZj9djjk/view?usp=sharing)_
   
 * **Zapytania zagnieżdżone**
   * **[Ćwiczenie](https://drive.google.com/file/d/1Yy0RvNzhOUabLaMKAETC0JAlVR17mUAR/view?usp=sharing)** _- Pobranie z tabeli Produkty wszystkie nazwy produktów, a także obliczoną kolumnę zawierającą łączną liczbę sprzedanych sztuk każdego produktu._ _[Rozwiązanie](https://drive.google.com/file/d/1gfvLrGvVqHThJ_DECSCsmPVIFzbZsvO-/view?usp=sharing)_
