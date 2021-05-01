@@ -24,6 +24,7 @@ Są to następujące bazy danych:
   * **[Ćwiczenie 1.02](https://drive.google.com/file/d/1PjIIZH-XsJn7pEKlsf8z-nCr63HEylJs/view?usp=sharing)** _- Sortowanie na podstawie położenia kolumny_ _[Rozwiązanie](https://drive.google.com/file/d/1yDNfvphC-rCAOpg5MfGJulc_Rk2zU4I_/view?usp=sharing)_
   * **[Ćwiczenie 1.03](https://drive.google.com/file/d/1fEL8962dHnPbNFlI30kCKuD525Mg2bm7/view?usp=sharing)** _- Sortowanie danych malejąco względem ceny_ _[Rozwiązanie](https://drive.google.com/file/d/1_HcuECbjW43AioiRwSfjWjAYbQppmvif/view?usp=sharing)_
   * **[Ćwiczenie 1.04](https://drive.google.com/file/d/1yxjPDwKGo232PIKpW4bc5_CQ1nMnR7f5/view?usp=sharing)** _- Sortowanie danych rosnąco względem ceny_ _[Rozwiązanie](https://drive.google.com/file/d/1NzADB8XSJ0g8TXBbtIJN3IfYG_-kO5EE/view?usp=sharing)_
+  * **[Ćwiczenie 1.05](https://drive.google.com/file/d/1Qyq4GwKJ7k2wCQ4raI5NpuFKm_OLSZ3H/view?usp=sharing)** _- Sortowanie danych na podstawie wielu kolumn - malejącą względem ceny i alfabetycznie_ _[Rozwiązanie](https://drive.google.com/file/d/11tH9dLI21HvWMEmb0ru1TPBMlFS6vj7g/view?usp=sharing)_
   
 * **Zapytania zagnieżdżone**
   * **[Ćwiczenie](https://drive.google.com/file/d/1Yy0RvNzhOUabLaMKAETC0JAlVR17mUAR/view?usp=sharing)** _- Pobranie z tabeli Produkty wszystkie nazwy produktów, a także obliczoną kolumnę zawierającą łączną liczbę sprzedanych sztuk każdego produktu._ _[Rozwiązanie](https://drive.google.com/file/d/1gfvLrGvVqHThJ_DECSCsmPVIFzbZsvO-/view?usp=sharing)_
