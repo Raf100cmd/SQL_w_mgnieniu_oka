@@ -21,6 +21,7 @@ Są to następujące bazy danych:
 * **Sortowanie pobranych danych**
   * **[Ćwiczenie 1.0](https://drive.google.com/file/d/11o7_FmphGFefPrEvngsfylHIFKH9-KRI/view?usp=sharing)** _- Sortowanie nazw produktów z tabeli Produkty wg kolumny prod_nazwa_ _[Rozwiązanie](https://drive.google.com/file/d/1R1rd6oUS96hJSZWXOWPGK3l9ucSzQ24w/view?usp=sharing)_
   * **[Ćwiczenie 1.01](https://drive.google.com/file/d/1jWaIdsPXjkg-k59mOKTFif12zSM3i2hd/view?usp=sharing)** _- Sortowanie na podstawie wielu kolumn_ _[Rozwiązanie](https://drive.google.com/file/d/1P8UhkL6RzTboOVxH6PhjJ8vvDKhoib6I/view?usp=sharing)_
+  * **[Ćwiczenie 1.02](https://drive.google.com/file/d/1PjIIZH-XsJn7pEKlsf8z-nCr63HEylJs/view?usp=sharing)** _- Sortowanie na podstawie położenia kolumny_ _[Rozwiązanie](https://drive.google.com/file/d/1yDNfvphC-rCAOpg5MfGJulc_Rk2zU4I_/view?usp=sharing)_
   
 * **Zapytania zagnieżdżone**
   * **[Ćwiczenie](https://drive.google.com/file/d/1Yy0RvNzhOUabLaMKAETC0JAlVR17mUAR/view?usp=sharing)** _- Pobranie z tabeli Produkty wszystkie nazwy produktów, a także obliczoną kolumnę zawierającą łączną liczbę sprzedanych sztuk każdego produktu._ _[Rozwiązanie](https://drive.google.com/file/d/1gfvLrGvVqHThJ_DECSCsmPVIFzbZsvO-/view?usp=sharing)_
