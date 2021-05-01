@@ -17,6 +17,9 @@ Są to następujące bazy danych:
   * **[Ćwiczenie 1.05](https://drive.google.com/file/d/121JLOoRio5dR0ovk0wf-uHUx7UJraXHk/view?usp=sharing)** _- Pobranie identyfikatorów klientów z tabeli Klienci_  _[Rozwiązanie](https://drive.google.com/file/d/1PFS2kRMhLK7MEB86UZ8C2Na-HQ5Pm24g/view?usp=sharing)_
   * **[Ćwiczenie 1.06](https://drive.google.com/file/d/1zkiiKNBghINV8vTZc99bJgCL9Kb6Ru6w/view?usp=sharing)** _- Pobieranie listy zamówionych produktów z tabeli ElementyZamowienia_ _[Rozwiązanie](https://drive.google.com/file/d/12s7Q-aFN99aRMwa43Z2G08ROXDVB4VW4/view?usp=sharing)_
   * **[Ćwiczenie 1.07](https://drive.google.com/file/d/1pS2lgXIZMX-akc-MgAr4wHmN_LyAKCDZ/view?usp=sharing)** _- Pobieranie wszystkich kolumn z tabeli Klienci_ _[Rozwiązanie](https://drive.google.com/file/d/11nl9mTyez8OsLiByynnLcHb4u_IItEVs/view?usp=sharing)_
+
+* **Sortowanie pobranych danych**
+  * **[Ćwiczenie 1.0](https://drive.google.com/file/d/11o7_FmphGFefPrEvngsfylHIFKH9-KRI/view?usp=sharing)** _- Sortowanie nazw produktów z tabeli Produkty wg kolumny prod_nazwa_ _[Rozwiązanie](https://drive.google.com/file/d/1R1rd6oUS96hJSZWXOWPGK3l9ucSzQ24w/view?usp=sharing)_
   
 * **Zapytania zagnieżdżone**
   * **[Ćwiczenie](https://drive.google.com/file/d/1Yy0RvNzhOUabLaMKAETC0JAlVR17mUAR/view?usp=sharing)** _- Pobranie z tabeli Produkty wszystkie nazwy produktów, a także obliczoną kolumnę zawierającą łączną liczbę sprzedanych sztuk każdego produktu._ _[Rozwiązanie](https://drive.google.com/file/d/1gfvLrGvVqHThJ_DECSCsmPVIFzbZsvO-/view?usp=sharing)_
